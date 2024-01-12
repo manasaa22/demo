@@ -1,4 +1,4 @@
 import streamlit as st
-st.header('puppy')
-st.write('puppy')
-st.image('https://images.nightcafe.studio/jobs/XBKobupTtwNaHoGHDpEv/XBKobupTtwNaHoGHDpEv--1--q50wa.jpg',caption='puppy')
+st.header('HELLO')
+st.write('HELLO')
+st.image('https://www.shutterstock.com/image-vector/cute-ginger-cat-waving-hand-260nw-1038445837.jpg ',caption='puppy')
