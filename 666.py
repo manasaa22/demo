@@ -1,4 +1,4 @@
 import streamlit as st
-st.header('HELLO')
+st.header('HELLO!')
 st.write('meow meow')
-st.image('https://www.shutterstock.com/image-vector/cute-ginger-cat-waving-hand-260nw-1038445837.jpg ',caption='puppy')
+st.image('https://img.freepik.com/premium-vector/vector-hand-drawn-cute-cat-s-face-saying-hello-isolated-illustration-with-lettering-white-background_114122-2019.jpg ',caption='puppy')
